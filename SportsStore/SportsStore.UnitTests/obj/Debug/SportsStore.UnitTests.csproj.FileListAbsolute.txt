@@ -14,7 +14,6 @@ C:\Users\Pam\Source\Repos\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debu
 C:\Users\Pam\Source\Repos\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
 C:\Users\Pam\Source\Repos\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
 C:\Users\Pam\Source\Repos\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
-C:\Users\Pam\Source\Repos\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Pam\Source\Repos\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\Pam\Source\Repos\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
 C:\Users\Pam\Source\Repos\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.dll
